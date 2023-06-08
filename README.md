@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yongmin's%20Github%20👋&fontSize=90)
 
 <!--
 **yongminjo/yongminjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
